@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SnapMeds</string>
+    <string name="action_settings">Settings</string>
+    <string name="calendar">Calendar</string>
+    <string name="search">Search</string>
+    <string name="scan">Scan</string>
+    <string name="add_medication">Add Medication</string>
+    <string name="view_prescription">View Prescription</string>
+    <string name="delete_prescription">Delete Prescription</string>
+    <string name="dosage">Dosage</string>
+    <string name="remove_prescription">Remove Prescription</string>
+    <string name="title_activity_dosage_parser">DosageParserActivity</string>
+    <string name="dosage_text_hint">Enter dosage information.</string>
+    <string name="dosage_text_parse">Parse</string>
+    <string name="dosage_quantity">e.g. \'one tablet\'</string>
+    <string name="dosage_frequency">e.g. \'daily\'</string>
+    <string name="dosage_route">e.g. \'by mouth\'</string>
+    <string name="dosage_instructions">e.g. \'with water\'</string>
+    <string name="dosage_duration">e.g. \'for one week\'</string>
+    <string name="dosage_reason">e.g. \'for pain\'</string>
+    <string name="dosage_warnings">e.g. \'avoid alcohol\'</string>
+    <string name="dosage_save">Save</string>
+    <string name="dosage_quantity_label">Quantity (required): </string>
+    <string name="dosage_frequency_label">Frequency (required): </string>
+    <string name="dosage_route_label">Route: </string>
+    <string name="dosage_instructions_label">Instructions: </string>
+    <string name="dosage_duration_label">Duration: </string>
+    <string name="dosage_reason_label">Reason: </string>
+    <string name="dosage_warnings_label">Warnings: </string>
+    <string name="title_activity_mock_detail">MockDetailActivity</string>
+    <string name="menu_settings">Settings</string>
+    <string name="search_label">Search</string>
+    <string name="search_hint">Search Drug Name/NDC</string>
+    <string name="search_view">search</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="dosage_parse_failed">Dosage Text Not Understood</string>
+    <string name="remove_dialog_title">Remove Prescription?</string>
+    <string name="remove_dialog_message">You\'ll lose all data associated with this, including dosage, note and picture!</string>
+    <string name="remove">Remove</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save_title">Saving Dosage</string>
+    <string name="save_message">Are you sure you want to save this dosage?</string>
+    <string name="dosage_skip">Skip</string>
+    <string name="medicine_cabinet">Medicine Cabinet</string>
+    <string name="drug_name">Name</string>
+    <string name="drug_generic_name">Generic Name</string>
+    <string name="drug_uses">Uses</string>
+    <string name="drug_warnings">Warnings</string>
+    <string name="drug_precautions">Precautions</string>
+    <string name="drug_adverse_reactions">Possible Side Effects</string><string name="drug_box_warnings">Box Warnings</string>
+    <string name="drug_conflicting_conditions">Conflicting Conditions</string>
+    <string name="drug_medication_guide">Medication Guide</string>
+    <string name="hello_world">Hello world!</string>
+    
+
+</resources>
